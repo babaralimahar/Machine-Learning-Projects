@@ -1,11 +1,11 @@
-# 🚀 Machine-Learning-Projects
+# Machine-Learning-Projects
 
 A **comprehensive repository for learning and experimenting with Machine Learning**.  
 This is a personal space to explore ML concepts, algorithms, and techniques, and to track my progress as I build my skills.
 
 ---
 
-## 🌟 Overview
+## Overview
 
 - Focused purely on Real-World use cases of **Machine Learning**  
 - A place to **learn, experiment, and improve** step-by-step 
@@ -13,6 +13,6 @@ This is a personal space to explore ML concepts, algorithms, and techniques, and
 
 ---
 
-### ✨ Goal
+### Goal
 
 To create a structured collection of ML resources and experiments that will help me **grow as a data scientist**, understand algorithms deeply, and practice real-world problem-solving.
